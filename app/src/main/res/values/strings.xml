@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AplikasiBiodata</string>
+    <string name="deskripsi">Deskripsi :</string>
+    <string name="hobby">Hobby :</string>
+    <string name="alamat">Alamat :</string>
+    <string name="telepon">Telepon :</string>
+    <string name="email">Email :</string>
+    <string name="todo">TODO</string>
+    <string name="a11_2017_10805">A11.2017.10805</string>
+    <string name="dani_setiyawan">Dani Setiyawan</string>
+    <string name="ngegame">Ngegame</string>
+    <string name="hallo_saya_dani_setiyawan_saya_mahasiswa_di_kampus_universitas_dian_nuswantoro_jurusan_teknik_informatika">Hallo saya Dani Setiyawan. Saya mahasiswa di kampus Universitas Dian Nuswantoro jurusan Teknik Informatika.</string>
+    <string name="jalan_pucung_raya_no_07_pudakpayung_kota_semarang_jawa_tengah_50265">Jalan Pucung Raya no.07, Pudakpayung, Kota Semarang, Jawa Tengah 50265</string>
+    <string name="_082221231234">082221231234</string>
+    <string name="danisetiyawan_gmail_com">danisetiyawan@gmail.com</string>
+</resources>
